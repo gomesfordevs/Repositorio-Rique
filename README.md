@@ -26,4 +26,4 @@
 
 ---
 
-> “A melhor forma de prever o futuro é criá-lo.” 🚀
+> “Quem vive de passado é museu, focado no futuro.” 🚀
