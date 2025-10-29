@@ -16,8 +16,8 @@
 ---
 
 ### 📈 Minhas estatísticas no GitHub
-![Henrique's GitHub stats](https://github-readme-stats.vercel.app/api?username=henrique&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=henrique&layout=compact&theme=tokyonight)
+![Henrique's GitHub stats](https://github-readme-stats.vercel.app/api?username=gomesfordevs&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gomesfordevs&layout=compact&theme=tokyonight)
 
 ---
 
